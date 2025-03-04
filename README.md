@@ -1,6 +1,5 @@
 # indexd
-
-[![license](https://img.shields.io/github/license/:jrtcra/:indexd.svg)](LICENSE)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
 Book tracker for modern readers. Emphasizes learning and community. 
