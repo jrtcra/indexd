@@ -13,6 +13,8 @@ Book tracker for modern readers. Emphasizes learning and community.
 
 ## Background
 
+This application's goal is mainly to learn a few different technologies (Postgres, Angular, etc.) before starting work in Summer 2026. The idea of innovating on book tracking apps comes largely from a dissatisfaction with using GoodReads. I usually having no issues working with Letterboxd, which accomplishes the same goal but for a different medium of content. So I want to bring some UI elements from Letterboxd to this application in an inspired and innovative way.
+
 ## Install
 
 TBD
